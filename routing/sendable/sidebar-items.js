@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Sendable","This trait require to be available for any type passed to routing.  `owner`, `refresh` and `merge` are optional.  The name will let routing know its a NaeManager and the owner will allow routing to hash the requster's ID with this name (by hashing the requester's ID) for put and post messages."]]});

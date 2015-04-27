@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["NameType","NameType can be created using the new function by passing id as its parameter."]]});
